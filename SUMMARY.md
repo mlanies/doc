@@ -2,6 +2,8 @@
 
 * [doc](README.md)
 
-## Group 1
+## Инструкции
 
-* [ЛК](group-1/lk.md)
+* [ЛК](instrukcii/lk.md)
+* [Регистрация сервера](instrukcii/registraciya-servera.md)
+* [Десктоп приложение 2GC BUSINESS](instrukcii/desktop-prilozhenie-2gc-business.md)
