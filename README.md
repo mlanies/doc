@@ -26,4 +26,12 @@ layout:
 
 Если у вас возникнут вопросы или предложения по улучшению проекта, не стесняйтесь обращаться к нам через наш [**Telegram**-бот](https://t.me/suppport2gc\_bot).
 
-Мы рады видеть вас среди пользователей 2GC и надеемся, что наш проект сделает вашу работу с облачными сервисами проще и безопаснее!
+Мы рады видеть вас среди пользователей 2GC и надеемся, что наш проект сделает вашу работу с облачными сервисами проще и безопаснее!\
+\
+**Разделы:**\
+\
+[lk](instrukcii/lk/ "mention")
+
+[registraciya-servera.md](instrukcii/registraciya-servera.md "mention")
+
+[desktop-prilozhenie-2gc-business.md](instrukcii/desktop-prilozhenie-2gc-business.md "mention")\
