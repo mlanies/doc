@@ -34,4 +34,4 @@ layout:
 
 [registraciya-servera.md](instrukcii/registraciya-servera.md "mention")
 
-[desktop-prilozhenie-2gc-business.md](instrukcii/desktop-prilozhenie-2gc-business.md "mention")\
+[desktop-prilozhenie-2gc-business](instrukcii/desktop-prilozhenie-2gc-business/ "mention")\
